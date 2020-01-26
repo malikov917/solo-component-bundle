@@ -1,4 +1,4 @@
-# AngularElementsNine
+# Angular Solo Component Bundle
 
 This repo is from AngularMinskMeetup#7 [Slides.com](https://slides.com/kostyamalikov/angular-future-with-ivy#). Angular version 8.2.14
 
